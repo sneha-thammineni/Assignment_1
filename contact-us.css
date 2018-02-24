@@ -1,0 +1,104 @@
+body {
+    /* margin: 0; */
+    margin-top: 20px;
+}
+
+h5 {
+	font-size: 20px;
+    float: left;
+    margin-top: 38px;
+    margin-left: 48px;
+    color: white;
+
+}
+h1{
+	font-size: 36px;
+	color: white;
+}
+.text-1{
+	margin-top: 25px;
+
+}
+
+.text-2{
+	margin-top: 15px;
+
+}
+
+.text-3{
+	margin-top: 15px;
+
+}
+
+.text-1 input{
+	border-style: inset;
+    padding-left: 9px;
+}
+
+.text-2 input{
+	border-style: inset;
+    padding-left: 9px;
+
+}
+
+.text-3 input{
+	border-style: inset;
+    padding-left: 9px;
+
+}
+
+/*.side-text h5{
+	width: 100%;
+}*/
+
+.side-text h3{
+
+}
+.side-text p{
+	font-size: 15px;
+}
+
+.page-2 {
+	margin-top: 10px;
+}
+.page-2 a{
+color: #337ab7;
+    text-decoration: none;
+    font-size: 20px;
+    float: left;
+
+}
+
+.page-3 a{
+color: #337ab7;
+    text-decoration: none;
+    font-size: 20px;
+    float: right;
+}
+
+.page-3 a:hover{
+
+color: lightgrey;
+}
+
+.page-2 a:hover{
+
+color: lightgrey;
+}
+
+.button-1{
+    margin-top: 15px;
+
+}
+
+.text-4{
+margin-top: 30px;
+
+}
+
+.page-3 {
+    margin-top: 10px;
+}
+
+
+
